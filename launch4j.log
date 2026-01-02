@@ -1,0 +1,96 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Desktop\Calculator\Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Desktop\Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\HP\Desktop\Calculator
+Substitute:	EXEDIR = C:\Users\HP\Desktop\Calculator
+Substitute:	EXEDIR = C:\Users\HP\Desktop\Calculator
+Launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\HP\Desktop\Calculator" -Dlaunch4j.exedir="C:\Users\HP\Desktop\Calculator" -Dlaunch4j.exedir="C:\Users\HP\Desktop\Calculator" -jar "C:\Users\HP\Desktop\Calculator\Calculator.exe"
+Args length:	205/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Desktop\Calculator\Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Desktop\Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\HP\Desktop\Calculator
+Substitute:	EXEDIR = C:\Users\HP\Desktop\Calculator
+Substitute:	EXEDIR = C:\Users\HP\Desktop\Calculator
+Launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\HP\Desktop\Calculator" -Dlaunch4j.exedir="C:\Users\HP\Desktop\Calculator" -Dlaunch4j.exedir="C:\Users\HP\Desktop\Calculator" -jar "C:\Users\HP\Desktop\Calculator\Calculator.exe"
+Args length:	205/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Desktop\Calculator\cal.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Desktop\Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Desktop\Calculator\cal.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Desktop\Calculator\cal.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Desktop\Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\HP\Desktop\Calculator\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Desktop\Calculator\cal.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Desktop\MyCalculator\cal.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Desktop\MyCalculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\HP\Desktop\MyCalculator\jre\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\HP\Desktop\MyCalculator\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Desktop\MyCalculator\cal.exe"
+Args length:	47/32768 chars
+Exit code:	0
